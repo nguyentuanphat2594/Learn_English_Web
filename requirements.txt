@@ -18,9 +18,9 @@ markdown-it-py==4.0.0
 MarkupSafe==3.0.3
 mdurl==0.1.2
 narwhals==2.16.0
-numpy==1.26.4
+numpy>=2.0.0
 packaging==23.2
-pandas==2.1.4
+pandas==2.2.3
 pillow==10.4.0
 plotly==5.18.0
 protobuf==4.25.8
