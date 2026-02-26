@@ -6,7 +6,6 @@ certifi==2026.1.4
 charset-normalizer==3.4.4
 click==8.1.8
 colorama==0.4.6
-comtypes==1.4.15
 gitdb==4.0.12
 GitPython==3.1.46
 gTTS==2.5.4
@@ -28,11 +27,8 @@ protobuf==4.25.8
 pyarrow==23.0.0
 pydeck==0.9.1
 Pygments==2.19.2
-pypiwin32==223
 python-dateutil==2.9.0.post0
-pyttsx3==2.99
 pytz==2025.2
-pywin32==311
 referencing==0.37.0
 requests==2.32.5
 rich==13.9.4
