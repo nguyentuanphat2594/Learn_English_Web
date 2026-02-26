@@ -1,0 +1,16 @@
+{
+  "banking__001": {
+    "word": "Bank",
+    "pos": "N (noun)",
+    "meaning": "Ngân hàng",
+    "example": "TPBank is the greatest bank in VietNam.",
+    "example_meaning": "TPBank là ngân hàng tuyệt vời nhất ở Việt Nam."
+  },
+  "banking__002": {
+    "word": "credit card",
+    "pos": "N (noun)",
+    "meaning": "thẻ tín dụng",
+    "example": "I use a credit card for online shopping.",
+    "example_meaning": "Tôi sử dụng thẻ tín dụng để mua sắm trực tuyến."
+  }
+}

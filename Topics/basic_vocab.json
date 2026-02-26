@@ -1,0 +1,72 @@
+{
+  "word_1": {
+    "word": "abandon",
+    "pos": "(v)",
+    "meaning": "từ bỏ, bỏ rơi",
+    "example": "They had to abandon their home due to the flood.",
+    "example_meaning": "Họ phải từ bỏ ngôi nhà của mình do lũ lụt."
+  },
+  "word_2": {
+    "word": "ability",
+    "pos": "(n)",
+    "meaning": "khả năng, năng lực",
+    "example": "She has the ability to succeed in any field.",
+    "example_meaning": "Cô ấy có khả năng thành công trong bất kỳ lĩnh vực nào."
+  },
+  "word_3": {
+    "word": "accomplish",
+    "pos": "(v)",
+    "meaning": "hoàn thành, đạt được",
+    "example": "He accomplished all his goals this year.",
+    "example_meaning": "Anh ấy đã hoàn thành tất cả mục tiêu của mình trong năm nay."
+  },
+  "word_4": {
+    "word": "accurate",
+    "pos": "(adj)",
+    "meaning": "chính xác, đúng đắn",
+    "example": "The weather forecast was not very accurate.",
+    "example_meaning": "Dự báo thời tiết không được chính xác lắm."
+  },
+  "word_5": {
+    "word": "achieve",
+    "pos": "(v)",
+    "meaning": "đạt được, giành được",
+    "example": "Students who work hard can achieve great success.",
+    "example_meaning": "Học sinh chăm chỉ có thể đạt được thành công lớn."
+  },
+  "word_6": {
+    "word": "acquire",
+    "pos": "(v)",
+    "meaning": "thu được, giành được",
+    "example": "Children acquire language naturally.",
+    "example_meaning": "Trẻ em tiếp thu ngôn ngữ một cách tự nhiên."
+  },
+  "word_7": {
+    "word": "advantage",
+    "pos": "(n)",
+    "meaning": "lợi thế, ưu điểm",
+    "example": "Speaking English gives you a big advantage.",
+    "example_meaning": "Nói được tiếng Anh mang lại cho bạn lợi thế lớn."
+  },
+  "word_8": {
+    "word": "analyze",
+    "pos": "(v)",
+    "meaning": "phân tích",
+    "example": "Scientists analyze data to find patterns.",
+    "example_meaning": "Các nhà khoa học phân tích dữ liệu để tìm ra quy luật."
+  },
+  "word_9": {
+    "word": "approach",
+    "pos": "(n/v)",
+    "meaning": "cách tiếp cận / tiếp cận",
+    "example": "We need a new approach to solve this problem.",
+    "example_meaning": "Chúng ta cần một cách tiếp cận mới để giải quyết vấn đề này."
+  },
+  "word_10": {
+    "word": "appropriate",
+    "pos": "(adj)",
+    "meaning": "thích hợp, phù hợp",
+    "example": "Please wear appropriate clothing for the interview.",
+    "example_meaning": "Vui lòng mặc trang phục phù hợp cho buổi phỏng vấn."
+  }
+}

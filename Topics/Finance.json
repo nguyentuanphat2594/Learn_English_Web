@@ -1,0 +1,16 @@
+{
+  "analysis__finance__001": {
+    "word": "analysis",
+    "meaning": "sự phân tích",
+    "pos": "N (noun)",
+    "example": "Financial analysis is important.",
+    "example_meaning": "Phân tích tài chính rất quan trọng."
+  },
+  "asset__finance__002": {
+    "word": "asset",
+    "pos": "N (noun)",
+    "meaning": "tài sản",
+    "example": "The bank owns many assets.",
+    "example_meaning": "Ngân hàng sở hữu nhiều tài sản."
+  }
+}
